@@ -85,7 +85,7 @@ Recorre la cadena carácter por carácter.
 
 > Pista:
 > Puedes usar un `Stack<Character>` y un mapa para relacionar los símbolos de apertura y cierre.
-
+    
 ### 3. ordenarPila(Stack<Integer> pila)
 - Ordena una pila de enteros en orden ascendente usando solo otra pila auxiliar.
 - Inserta los elementos en la pila auxiliar en el lugar correcto, simulando el ordenamiento de cartas en la mano.
